@@ -1,0 +1,18 @@
+{
+    "wifi": {
+        "ssid": "",
+        "psswd": ""
+    },
+    "mqtt": {
+        "client": {
+            "id": "pegasus",
+            "user": "",
+            "psswd": "",
+            "topic": "pegasus/door/state"
+        },
+        "server": {
+            "host": "",
+            "port": 1883
+        }
+    }
+}
